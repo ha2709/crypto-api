@@ -23,8 +23,6 @@ Before running the project, ensure you have the following installed:
    cd crypto-price-api
     ```
 
-curl http://localhost:3000/crypto/price/bitcoin
-
 2. **Install dependencies**:
 
     ```sh
